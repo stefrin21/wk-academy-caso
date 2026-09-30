@@ -42,6 +42,19 @@ En ningún momento del curso se conecta ningún dato ni ningún sistema real de 
 
 ---
 
+## Cómo conseguir esta carpeta
+
+Se clona desde GitHub, no se descarga a mano:
+
+```
+https://github.com/stefrin21/wk-academy-caso.git
+```
+
+En VS Code: `Cmd/Ctrl + Shift + P` → `Git: Clone` → pegar esa dirección → elegir dónde
+guardarla. Al abrirse, VS Code pregunta si confía en la carpeta: hay que decir que sí.
+
+---
+
 ## Dónde guardar esta carpeta
 
 **No dentro de OneDrive ni de ninguna carpeta sincronizada con la nube.**
