@@ -26,6 +26,7 @@ clase. Lo único importante hoy es tenerla descargada en el computadora.
 | `CASO.md` | **El caso escrito por extenso.** Adjúntalo con `#file` siempre que le pidas algo a la IA sobre el caso | Todos los módulos |
 | `package.json` | La lista de librerías del proyecto. `npm install` la lee para saber qué descargar | Módulo 1 · deberes |
 | `.github/skills/feature-onepager/` | Una **Skill** ya preparada. No hay que crearla: ya está | Módulo 1 |
+| `.github/skills/historia-usuario/` | Otra Skill de ejemplo, la que el docente enseña en clase | Módulo 1 |
 | `assets/seed/` (4 archivos) | Los datos inventados del caso: empresas, facturas y sus líneas | Módulo 3 · ruta PM |
 | `assets/migration.sql` | El texto que crea las tablas y las reglas de seguridad | Módulo 3 · ruta PM |
 | `assets/migration-comparacion.sql` | Las funciones que comparan una empresa con su sector | Módulo 5 · ruta PM |
