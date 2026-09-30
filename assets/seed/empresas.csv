@@ -1,0 +1,49 @@
+empresa_id,nif_cif,denominacion,cnae,sector,comunidad_autonoma,provincia,tramo
+E0048,E52991247,Salud Nervión S.A.,8690,Otras actividades sanitarias,Aragón,Zaragoza,pequeña
+E0019,B32677361,Asesores Guadalquivir S.A.,6920,Actividades de contabilidad y asesoría,Madrid,Madrid,micro
+E0029,F86923224,Tecnologías Nervión S.L.,6201,Programación informática,Cataluña,Barcelona,pequeña
+E0036,H77387215,Montajes Genil S.L.,4321,Instalaciones eléctricas,Galicia,A Coruña,mediana
+E0034,F14846562,Montajes Manzanares S.L.,4321,Instalaciones eléctricas,Galicia,A Coruña,micro
+E0002,J90838632,Ultramarinos Segura S.L.,4711,Comercio al por menor de alimentación,Comunidad Valenciana,Valencia,pequeña
+E0022,D61939906,Asesores Llobregat S.L.U.,6920,Actividades de contabilidad y asesoría,Cataluña,Barcelona,pequeña
+E0018,C62473178,Restauración Aljarafe S.L.U.,5610,Restaurantes y puestos de comidas,Aragón,Zaragoza,mediana
+E0039,J31727886,Mercancías Pisuerga S.L.U.,4941,Transporte de mercancías por carretera,Madrid,Madrid,mediana
+E0040,J72774342,Cargo Miño S.A.,4941,Transporte de mercancías por carretera,Castilla y León,Valladolid,micro
+E0035,C99468043,Montajes Ebro S.A.,4321,Instalaciones eléctricas,Castilla y León,Valladolid,pequeña
+E0043,G70546684,Clínica Nalón S.L.,8690,Otras actividades sanitarias,Madrid,Madrid,micro
+E0047,A33092321,Sanitaria Besòs S.L.U.,8690,Otras actividades sanitarias,Madrid,Madrid,mediana
+E0045,B62720461,Bienestar Ebro S.A.,8690,Otras actividades sanitarias,Madrid,Madrid,micro
+E0010,J48018451,Confecciones Duero S.A.,1413,Confección de prendas de vestir,Aragón,Zaragoza,micro
+E0009,J71012264,Confecciones Ter S.A.,1413,Confección de prendas de vestir,Andalucía,Sevilla,pequeña
+E0031,D03654142,Montajes Ter S.L.U.,4321,Instalaciones eléctricas,Comunidad Valenciana,Valencia,mediana
+E0006,B92832765,Comestibles Miño S.L.U.,4711,Comercio al por menor de alimentación,País Vasco,Bizkaia,micro
+E0033,J16934069,Instalaciones Ebro S.A.,4321,Instalaciones eléctricas,Castilla y León,Valladolid,micro
+E0032,A14294011,Electro Jalón S.L.U.,4321,Instalaciones eléctricas,Galicia,A Coruña,pequeña
+E0015,D01031053,Restauración Miño S.A.,5610,Restaurantes y puestos de comidas,Comunidad Valenciana,Valencia,pequeña
+E0030,G34216077,Sistemas Ebro S.A.,6201,Programación informática,Galicia,A Coruña,micro
+E0012,F70154307,Textil Turia S.L.,1413,Confección de prendas de vestir,Madrid,Madrid,pequeña
+E0027,E27868017,Software Manzanares S.L.U.,6201,Programación informática,Andalucía,Sevilla,micro
+E0004,A78161841,Comestibles Ebro S.L.U.,4711,Comercio al por menor de alimentación,País Vasco,Bizkaia,micro
+E0042,B66587601,Transportes Llobregat S.A.,4941,Transporte de mercancías por carretera,Comunidad Valenciana,Valencia,mediana
+E0014,E65787137,Hostelería Turia S.A.,5610,Restaurantes y puestos de comidas,Comunidad Valenciana,Valencia,micro
+E0001,A43321819,Ultramarinos Aljarafe S.L.,4711,Comercio al por menor de alimentación,Cataluña,Barcelona,micro
+E0011,E82814898,Textil Manzanares S.A.,1413,Confección de prendas de vestir,Madrid,Madrid,pequeña
+E0021,F00978825,Asesores Turia S.L.,6920,Actividades de contabilidad y asesoría,Madrid,Madrid,micro
+E0017,G67010652,Restauración Miño S.L.,5610,Restaurantes y puestos de comidas,Galicia,A Coruña,micro
+E0044,A65627291,Salud Ter S.L.U.,8690,Otras actividades sanitarias,Aragón,Zaragoza,pequeña
+E0024,B83842518,Consultores Jalón S.A.,6920,Actividades de contabilidad y asesoría,Cataluña,Barcelona,micro
+E0028,J26204503,Digital Ebro S.L.U.,6201,Programación informática,Galicia,A Coruña,micro
+E0023,E35346246,Asesoría Genil S.L.,6920,Actividades de contabilidad y asesoría,Galicia,A Coruña,micro
+E0003,G54235114,Ultramarinos Besòs S.A.,4711,Comercio al por menor de alimentación,Andalucía,Sevilla,mediana
+E0037,E33200379,Logística Pisuerga S.A.,4941,Transporte de mercancías por carretera,Comunidad Valenciana,Valencia,mediana
+E0008,C42388496,Prendas Ter S.A.,1413,Confección de prendas de vestir,Aragón,Zaragoza,micro
+E0020,E74687237,Gestoría Ebro S.L.,6920,Actividades de contabilidad y asesoría,Castilla y León,Valladolid,pequeña
+E0007,D05641394,Moda Ebro S.L.U.,1413,Confección de prendas de vestir,Madrid,Madrid,micro
+E0016,J29973765,Hostelería Besòs S.L.,5610,Restaurantes y puestos de comidas,Comunidad Valenciana,Valencia,pequeña
+E0041,D45581220,Transportes Ter S.L.U.,4941,Transporte de mercancías por carretera,País Vasco,Bizkaia,micro
+E0038,G76320167,Transportes Guadalquivir S.L.U.,4941,Transporte de mercancías por carretera,Comunidad Valenciana,Valencia,pequeña
+E0005,E13164751,Supermercados Jalón S.A.,4711,Comercio al por menor de alimentación,Comunidad Valenciana,Valencia,micro
+E0013,J22782486,Gastro Ebro S.L.U.,5610,Restaurantes y puestos de comidas,Cataluña,Barcelona,pequeña
+E0046,E64170806,Bienestar Miño S.L.U.,8690,Otras actividades sanitarias,Castilla y León,Valladolid,micro
+E0026,F34874016,Tecnologías Segura S.L.,6201,Programación informática,Comunidad Valenciana,Valencia,micro
+E0025,J08412413,Software Manzanares S.A.,6201,Programación informática,País Vasco,Bizkaia,micro

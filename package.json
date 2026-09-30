@@ -1,0 +1,12 @@
+{
+  "name": "wk-benchmark-asesorias",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Caso práctico de la AI Product Building Academy · Wolters Kluwer España",
+  "scripts": {
+    "datos": "node scripts/ver-datos.mjs"
+  },
+  "dependencies": {
+    "csv-parse": "7.0.3"
+  }
+}

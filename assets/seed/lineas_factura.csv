@@ -1,0 +1,1227 @@
+factura_id,descripcion,cantidad,precio_unitario,importe
+F00001,Revisión especialista,39,121.41,4734.99
+F00001,Revisión especialista,36,74.23,2672.28
+F00001,Analítica clínica,6,90.01,540.06
+F00002,Tratamiento rehabilitación,32,104.14,3332.48
+F00002,Sesión fisioterapia,6,93.62,561.72
+F00003,Revisión especialista,31,111.33,3451.23
+F00003,Revisión especialista,28,141.58,3964.24
+F00003,Revisión especialista,23,121.52,2794.96
+F00004,Sesión fisioterapia,13,95.08,1236.04
+F00004,Analítica clínica,13,88.31,1148.03
+F00005,Revisión especialista,7,130.39,912.73
+F00005,Revisión especialista,15,98.17,1472.55
+F00005,Revisión especialista,1,121.88,121.88
+F00005,Analítica clínica,18,76.64,1379.52
+F00006,Analítica clínica,32,80.54,2577.28
+F00006,Sesión fisioterapia,37,92.95,3439.15
+F00006,Tratamiento rehabilitación,29,96.8,2807.2
+F00006,Sesión fisioterapia,17,137.79,2342.43
+F00007,Tratamiento rehabilitación,32,78.59,2514.88
+F00007,Sesión fisioterapia,10,83.72,837.2
+F00008,Analítica clínica,8,111.64,893.12
+F00008,Tratamiento rehabilitación,39,114.24,4455.36
+F00009,Tratamiento rehabilitación,29,135.57,3931.53
+F00009,Revisión especialista,38,141.13,5362.94
+F00009,Revisión especialista,37,115.94,4289.78
+F00009,Sesión fisioterapia,14,116.24,1627.36
+F00010,Analítica clínica,12,111.22,1334.64
+F00010,Analítica clínica,1,101.43,101.43
+F00011,Presentación de impuestos,13,133.28,1732.64
+F00011,Presentación de impuestos,15,153.02,2295.3
+F00011,Servicios de asesoría contable,10,101.89,1018.9
+F00011,Asesoria fiscal mensual,20,148.36,2967.2
+F00012,Confección de nóminas,8,137.15,1097.2
+F00012,Servicios de asesoría contable,26,179.2,4659.2
+F00012,Presentación de impuestos,35,139.37,4877.95
+F00013,Servicios de asesoría contable,39,117.77,4593.03
+F00013,Asesoría fiscal,15,180.91,2713.65
+F00013,Presentación de impuestos,38,179.92,6836.96
+F00014,Presentación de impuestos,3,163.27,489.81
+F00014,Asesoria fiscal mensual,31,141.61,4389.91
+F00014,Confección de nóminas,18,111.66,2009.88
+F00015,Asesoría fiscal,31,126.43,3919.33
+F00015,Servicios de asesoría contable,21,155.02,3255.42
+F00015,Asesoria fiscal mensual,22,132.08,2905.76
+F00016,Presentación de impuestos,3,135.92,407.76
+F00016,Servicios de asesoría contable,17,124.24,2112.08
+F00016,Confección de nóminas,33,168.76,5569.08
+F00017,Confección de nóminas,27,100.37,2709.99
+F00017,Presentación de impuestos,24,150.81,3619.44
+F00017,Confección de nóminas,29,162.99,4726.71
+F00017,Asesoria fiscal mensual,18,144.29,2597.22
+F00018,Confección de nóminas,8,98.12,784.96
+F00018,Presentación de impuestos,16,158.54,2536.64
+F00018,Servicios de asesoría contable,36,96.77,3483.72
+F00018,Confección de nóminas,6,115.5,693.0
+F00019,Asesoría fiscal,10,139.78,1397.8
+F00019,Servicios de asesoría contable,33,158.15,5218.95
+F00019,Confección de nóminas,31,182.54,5658.74
+F00020,Licencia SaaS anual,20,78.43,1568.6
+F00020,Consultoría técnica,10,62.41,624.1
+F00021,Consultoría técnica,30,82.34,2470.2
+F00021,Mantenimiento software,16,67.55,1080.8
+F00021,Mantenimiento software,27,45.91,1239.57
+F00021,Consultoría técnica,25,59.94,1498.5
+F00022,Mantenimiento software,32,83.65,2676.8
+F00022,Mantenimiento software,33,83.67,2761.11
+F00022,Licencia SaaS anual,7,79.93,559.51
+F00022,Consultoría técnica,7,65.67,459.69
+F00023,Consultoría técnica,10,47.19,471.9
+F00023,Licencia SaaS anual,22,69.65,1532.3
+F00024,Consultoría técnica,21,69.8,1465.8
+F00024,Consultoría técnica,35,45.59,1595.65
+F00024,Desarrollo a medida,16,69.98,1119.68
+F00025,Desarrollo a medida,28,84.2,2357.6
+F00025,Desarrollo a medida,29,50.94,1477.26
+F00025,Licencia SaaS anual,2,46.0,92.0
+F00025,Desarrollo a medida,19,58.81,1117.39
+F00026,Consultoría técnica,37,72.05,2665.85
+F00026,Mantenimiento software,11,51.29,564.19
+F00026,Consultoría técnica,40,72.11,2884.4
+F00026,Consultoría técnica,38,49.98,1899.24
+F00027,Licencia SaaS anual,1,80.95,80.95
+F00027,Consultoría técnica,19,71.88,1365.72
+F00027,Mantenimiento software,5,62.22,311.1
+F00028,Consultoría técnica,17,62.84,1068.28
+F00028,Licencia SaaS anual,13,85.06,1105.78
+F00028,Consultoría técnica,7,53.84,376.88
+F00029,Licencia SaaS anual,2,84.19,168.38
+F00029,Consultoría técnica,18,44.45,800.1
+F00029,Desarrollo a medida,39,74.65,2911.35
+F00030,Instalación eléctrica,20,95.96,1919.2
+F00030,Instalación eléctrica,38,74.16,2818.08
+F00030,Cuadro de baja tensión,6,102.18,613.08
+F00030,Mantenimiento instalación,27,64.43,1739.61
+F00031,Mantenimiento instalación,11,68.61,754.71
+F00031,Puntos de luz,19,93.8,1782.2
+F00031,Mantenimiento instalación,8,79.48,635.84
+F00032,Puntos de luz,36,74.21,2671.56
+F00032,Puntos de luz,1,69.0,69.0
+F00033,Mantenimiento instalación,38,74.99,2849.62
+F00033,Mantenimiento instalación,7,90.11,630.77
+F00033,Puntos de luz,2,87.26,174.52
+F00033,Mantenimiento instalación,40,66.78,2671.2
+F00034,Mantenimiento instalación,27,61.4,1657.8
+F00034,Instalación eléctrica,3,71.05,213.15
+F00034,Puntos de luz,8,60.39,483.12
+F00035,Mantenimiento instalación,35,76.95,2693.25
+F00035,Cuadro de baja tensión,27,89.08,2405.16
+F00035,Puntos de luz,40,76.39,3055.6
+F00036,Cuadro de baja tensión,29,78.27,2269.83
+F00036,Cuadro de baja tensión,24,60.5,1452.0
+F00036,Mantenimiento instalación,35,101.78,3562.3
+F00037,Mantenimiento instalación,13,105.2,1367.6
+F00037,Puntos de luz,6,89.49,536.94
+F00037,Instalación eléctrica,4,95.86,383.44
+F00038,Cuadro de baja tensión,39,28.66,1117.74
+F00038,Cuadro de baja tensión,9,42.92,386.28
+F00038,Cuadro de baja tensión,8,46.13,369.04
+F00039,Cuadro de baja tensión,38,37.18,1412.84
+F00039,Cuadro de baja tensión,17,29.97,509.49
+F00039,Puntos de luz,34,31.6,1074.4
+F00040,Instalación eléctrica,29,41.95,1216.55
+F00040,Instalación eléctrica,34,36.59,1244.06
+F00040,Instalación eléctrica,4,55.09,220.36
+F00041,Instalación eléctrica,32,47.49,1519.68
+F00041,Puntos de luz,5,52.45,262.25
+F00041,Mantenimiento instalación,39,32.52,1268.28
+F00041,Cuadro de baja tensión,18,45.15,812.7
+F00042,Puntos de luz,39,42.66,1663.74
+F00042,Puntos de luz,33,44.65,1473.45
+F00042,Instalación eléctrica,8,51.22,409.76
+F00043,Cuadro de baja tensión,28,40.57,1135.96
+F00043,Cuadro de baja tensión,27,37.58,1014.66
+F00043,Puntos de luz,26,39.62,1030.12
+F00043,Instalación eléctrica,21,39.91,838.11
+F00044,Puntos de luz,5,31.0,155.0
+F00044,Instalación eléctrica,6,40.04,240.24
+F00045,Frutas y verduras,19,37.09,704.71
+F00045,Productos de panadería,7,36.59,256.13
+F00045,Bebidas surtidas,10,38.33,383.3
+F00046,Productos de panadería,8,40.67,325.36
+F00046,Bebidas surtidas,28,42.5,1190.0
+F00046,Frutas y verduras,39,44.36,1730.04
+F00047,Bebidas surtidas,18,39.35,708.3
+F00047,Productos de panadería,22,31.57,694.54
+F00048,Conservas,5,26.95,134.75
+F00048,Frutas y verduras,6,40.31,241.86
+F00048,Bebidas surtidas,25,33.1,827.5
+F00048,Productos de panadería,11,31.99,351.89
+F00049,Frutas y verduras,4,27.25,109.0
+F00049,Frutas y verduras,6,29.83,178.98
+F00049,Conservas,32,37.24,1191.68
+F00049,Conservas,18,28.58,514.44
+F00050,Frutas y verduras,19,38.81,737.39
+F00050,Conservas,34,38.56,1311.04
+F00050,Frutas y verduras,15,32.55,488.25
+F00051,Productos de panadería,14,40.78,570.92
+F00051,Productos de panadería,19,31.07,590.33
+F00052,Bebidas surtidas,9,32.22,289.98
+F00052,Bebidas surtidas,33,36.17,1193.61
+F00052,Productos de panadería,5,32.59,162.95
+F00053,Asesoria fiscal mensual,40,143.75,5750.0
+F00053,Servicios de asesoría contable,6,141.56,849.36
+F00053,Asesoría fiscal,16,141.47,2263.52
+F00054,Servicios de asesoría contable,22,121.44,2671.68
+F00054,Asesoria fiscal mensual,5,148.46,742.3
+F00054,Asesoría fiscal,34,148.41,5045.94
+F00055,Asesoria fiscal mensual,16,110.33,1765.28
+F00055,Servicios de asesoría contable,13,116.95,1520.35
+F00055,Asesoria fiscal mensual,5,117.29,586.45
+F00055,Confección de nóminas,30,171.28,5138.4
+F00056,Presentación de impuestos,40,130.95,5238.0
+F00056,Servicios de asesoría contable,10,141.85,1418.5
+F00056,Confección de nóminas,29,159.77,4633.33
+F00056,Servicios de asesoría contable,38,105.97,4026.86
+F00057,Confección de nóminas,3,106.04,318.12
+F00057,Servicios de asesoría contable,5,161.01,805.05
+F00057,Asesoría fiscal,40,156.28,6251.2
+F00058,Asesoría fiscal,29,185.74,5386.46
+F00058,Presentación de impuestos,13,130.79,1700.27
+F00058,Confección de nóminas,33,114.83,3789.39
+F00058,Asesoría fiscal,29,110.4,3201.6
+F00059,Asesoría fiscal,33,161.15,5317.95
+F00059,Asesoría fiscal,16,166.9,2670.4
+F00059,Confección de nóminas,34,149.61,5086.74
+F00059,Asesoria fiscal mensual,24,135.59,3254.16
+F00060,Presentación de impuestos,4,174.53,698.12
+F00060,Servicios de asesoría contable,5,131.55,657.75
+F00060,Presentación de impuestos,25,127.3,3182.5
+F00061,Asesoria fiscal mensual,22,108.34,2383.48
+F00061,Asesoria fiscal mensual,23,129.73,2983.79
+F00061,Confección de nóminas,9,156.37,1407.33
+F00061,Asesoría fiscal,20,152.99,3059.8
+F00062,Comidas para llevar,32,33.61,1075.52
+F00062,Servicio catering,10,30.57,305.7
+F00063,Menú del día,22,51.74,1138.28
+F00063,Servicio catering,39,38.5,1501.5
+F00063,Servicio catering,12,50.54,606.48
+F00063,Servicio catering,29,29.68,860.72
+F00064,Menú grupos,40,36.07,1442.8
+F00064,Menú grupos,15,42.67,640.05
+F00065,Servicio catering,24,46.49,1115.76
+F00065,Menú grupos,30,48.9,1467.0
+F00065,Menú grupos,33,42.49,1402.17
+F00066,Servicio catering,17,29.91,508.47
+F00066,Menú grupos,24,43.21,1037.04
+F00066,Menú del día,34,51.07,1736.38
+F00066,Comidas para llevar,6,48.74,292.44
+F00067,Servicio catering,28,30.95,866.6
+F00067,Servicio catering,29,51.95,1506.55
+F00067,Menú del día,27,29.93,808.11
+F00067,Comidas para llevar,16,38.75,620.0
+F00068,Comidas para llevar,7,50.75,355.25
+F00068,Comidas para llevar,10,32.17,321.7
+F00069,Servicio catering,31,40.41,1252.71
+F00069,Menú del día,6,29.03,174.18
+F00069,Servicio catering,10,43.06,430.6
+F00070,Porte nacional,32,92.96,2974.72
+F00070,Porte nacional,33,91.76,3028.08
+F00071,Porte nacional,40,79.41,3176.4
+F00071,Ruta regional,12,96.72,1160.64
+F00071,Porte nacional,34,113.95,3874.3
+F00072,Porte nacional,25,108.32,2708.0
+F00072,Porte nacional,25,114.31,2857.75
+F00072,Distribución última milla,2,79.65,159.3
+F00072,Porte nacional,23,73.21,1683.83
+F00073,Distribución última milla,9,62.28,560.52
+F00073,Distribución última milla,12,105.94,1271.28
+F00073,Ruta regional,31,94.9,2941.9
+F00073,Transporte paletizado,5,99.59,497.95
+F00074,Porte nacional,13,109.02,1417.26
+F00074,Distribución última milla,20,88.44,1768.8
+F00075,Porte nacional,13,75.71,984.23
+F00075,Porte nacional,22,74.99,1649.78
+F00075,Distribución última milla,28,109.22,3058.16
+F00076,Distribución última milla,12,87.38,1048.56
+F00076,Ruta regional,24,111.15,2667.6
+F00076,Distribución última milla,6,100.2,601.2
+F00077,Distribución última milla,21,65.51,1375.71
+F00077,Distribución última milla,19,76.84,1459.96
+F00078,Ruta regional,23,84.65,1946.95
+F00078,Distribución última milla,40,115.26,4610.4
+F00079,Porte nacional,26,80.0,2080.0
+F00079,Transporte paletizado,2,67.75,135.5
+F00080,Distribución última milla,24,73.83,1771.92
+F00080,Porte nacional,37,58.96,2181.52
+F00080,Distribución última milla,26,67.54,1756.04
+F00081,Porte nacional,12,76.5,918.0
+F00081,Ruta regional,36,57.99,2087.64
+F00082,Transporte paletizado,40,66.14,2645.6
+F00082,Ruta regional,13,58.23,756.99
+F00082,Porte nacional,29,60.66,1759.14
+F00083,Distribución última milla,23,86.72,1994.56
+F00083,Distribución última milla,20,93.6,1872.0
+F00084,Transporte paletizado,24,76.97,1847.28
+F00084,Porte nacional,13,90.73,1179.49
+F00084,Transporte paletizado,32,53.55,1713.6
+F00084,Distribución última milla,30,91.29,2738.7
+F00085,Porte nacional,20,71.6,1432.0
+F00085,Ruta regional,34,72.22,2455.48
+F00086,Transporte paletizado,21,83.46,1752.66
+F00086,Ruta regional,30,85.29,2558.7
+F00087,Transporte paletizado,9,73.28,659.52
+F00087,Porte nacional,8,77.43,619.44
+F00087,Distribución última milla,11,60.14,661.54
+F00087,Transporte paletizado,23,98.27,2260.21
+F00088,Distribución última milla,13,83.1,1080.3
+F00088,Distribución última milla,9,82.62,743.58
+F00089,Mantenimiento instalación,37,47.2,1746.4
+F00089,Instalación eléctrica,6,47.38,284.28
+F00089,Mantenimiento instalación,14,77.83,1089.62
+F00089,Puntos de luz,40,72.43,2897.2
+F00090,Mantenimiento instalación,20,65.84,1316.8
+F00090,Puntos de luz,20,64.6,1292.0
+F00090,Instalación eléctrica,11,64.01,704.11
+F00090,Puntos de luz,30,54.07,1622.1
+F00091,Mantenimiento instalación,23,86.63,1992.49
+F00091,Cuadro de baja tensión,24,67.19,1612.56
+F00091,Instalación eléctrica,21,55.66,1168.86
+F00091,Instalación eléctrica,18,64.43,1159.74
+F00092,Puntos de luz,40,63.11,2524.4
+F00092,Cuadro de baja tensión,21,84.87,1782.27
+F00092,Mantenimiento instalación,13,77.67,1009.71
+F00093,Puntos de luz,20,66.45,1329.0
+F00093,Instalación eléctrica,26,66.79,1736.54
+F00093,Cuadro de baja tensión,14,70.08,981.12
+F00094,Puntos de luz,19,68.11,1294.09
+F00094,Instalación eléctrica,28,51.11,1431.08
+F00094,Mantenimiento instalación,24,77.7,1864.8
+F00095,Revisión especialista,40,76.07,3042.8
+F00095,Sesión fisioterapia,9,88.82,799.38
+F00095,Tratamiento rehabilitación,24,81.02,1944.48
+F00095,Revisión especialista,36,87.26,3141.36
+F00096,Tratamiento rehabilitación,33,48.36,1595.88
+F00096,Sesión fisioterapia,9,77.5,697.5
+F00096,Tratamiento rehabilitación,34,66.4,2257.6
+F00096,Analítica clínica,21,86.93,1825.53
+F00097,Revisión especialista,38,61.18,2324.84
+F00097,Tratamiento rehabilitación,37,59.59,2204.83
+F00097,Sesión fisioterapia,24,60.95,1462.8
+F00097,Sesión fisioterapia,27,71.88,1940.76
+F00098,Sesión fisioterapia,39,67.16,2619.24
+F00098,Analítica clínica,4,71.87,287.48
+F00098,Analítica clínica,34,73.84,2510.56
+F00098,Tratamiento rehabilitación,10,82.18,821.8
+F00099,Sesión fisioterapia,13,47.44,616.72
+F00099,Revisión especialista,27,53.17,1435.59
+F00099,Analítica clínica,27,68.34,1845.18
+F00099,Tratamiento rehabilitación,4,77.17,308.68
+F00100,Tratamiento rehabilitación,34,62.93,2139.62
+F00100,Analítica clínica,30,86.1,2583.0
+F00100,Revisión especialista,35,61.95,2168.25
+F00101,Revisión especialista,40,67.57,2702.8
+F00101,Analítica clínica,18,70.77,1273.86
+F00101,Analítica clínica,20,80.0,1600.0
+F00101,Analítica clínica,32,60.34,1930.88
+F00102,Revisión especialista,19,51.89,985.91
+F00102,Tratamiento rehabilitación,26,82.04,2133.04
+F00102,Analítica clínica,19,48.44,920.36
+F00102,Sesión fisioterapia,23,86.61,1992.03
+F00103,Analítica clínica,13,82.45,1071.85
+F00103,Revisión especialista,36,76.75,2763.0
+F00103,Analítica clínica,7,73.27,512.89
+F00104,Sesión fisioterapia,9,62.38,561.42
+F00104,Analítica clínica,27,99.71,2692.17
+F00104,Tratamiento rehabilitación,31,99.58,3086.98
+F00105,Revisión especialista,4,114.42,457.68
+F00105,Sesión fisioterapia,37,75.46,2792.02
+F00105,Sesión fisioterapia,12,86.17,1034.04
+F00106,Tratamiento rehabilitación,32,72.82,2330.24
+F00106,Revisión especialista,3,62.61,187.83
+F00107,Revisión especialista,30,119.09,3572.7
+F00107,Tratamiento rehabilitación,9,111.14,1000.26
+F00107,Tratamiento rehabilitación,18,73.19,1317.42
+F00108,Tratamiento rehabilitación,17,103.5,1759.5
+F00108,Sesión fisioterapia,22,107.66,2368.52
+F00108,Analítica clínica,12,97.3,1167.6
+F00108,Tratamiento rehabilitación,28,91.78,2569.84
+F00109,Analítica clínica,9,89.6,806.4
+F00109,Analítica clínica,1,77.11,77.11
+F00110,Revisión especialista,20,95.65,1913.0
+F00110,Sesión fisioterapia,17,99.76,1695.92
+F00110,Analítica clínica,4,100.57,402.28
+F00111,Analítica clínica,31,61.2,1897.2
+F00111,Revisión especialista,27,88.5,2389.5
+F00112,Analítica clínica,16,87.43,1398.88
+F00112,Sesión fisioterapia,34,75.8,2577.2
+F00112,Revisión especialista,5,99.21,496.05
+F00112,Sesión fisioterapia,4,94.81,379.24
+F00113,Analítica clínica,11,69.9,768.9
+F00113,Tratamiento rehabilitación,8,87.42,699.36
+F00113,Tratamiento rehabilitación,6,98.3,589.8
+F00113,Tratamiento rehabilitación,4,76.14,304.56
+F00114,Sesión fisioterapia,36,76.58,2756.88
+F00114,Revisión especialista,2,73.28,146.56
+F00114,Sesión fisioterapia,14,82.35,1152.9
+F00114,Sesión fisioterapia,28,70.72,1980.16
+F00115,Sesión fisioterapia,31,55.16,1709.96
+F00115,Tratamiento rehabilitación,12,91.83,1101.96
+F00116,Tratamiento rehabilitación,24,102.97,2471.28
+F00116,Tratamiento rehabilitación,29,96.84,2808.36
+F00116,Tratamiento rehabilitación,25,57.57,1439.25
+F00116,Analítica clínica,23,59.48,1368.04
+F00117,Analítica clínica,1,91.2,91.2
+F00117,Revisión especialista,30,87.08,2612.4
+F00118,Camisas algodón,16,57.52,920.32
+F00118,Camisas algodón,39,49.79,1941.81
+F00118,Camisas algodón,16,81.49,1303.84
+F00118,Prenda punto,29,58.79,1704.91
+F00119,Pantalón sarga,33,92.83,3063.39
+F00119,Pantalón sarga,37,62.58,2315.46
+F00120,Pantalón sarga,20,87.57,1751.4
+F00120,Pantalón sarga,27,61.76,1667.52
+F00120,Camisas algodón,36,90.81,3269.16
+F00121,Prenda punto,36,70.51,2538.36
+F00121,Chaquetas temporada,25,83.52,2088.0
+F00121,Chaquetas temporada,27,66.59,1797.93
+F00121,Chaquetas temporada,25,56.53,1413.25
+F00122,Chaquetas temporada,10,84.41,844.1
+F00122,Camisas algodón,36,66.79,2404.44
+F00123,Prenda punto,16,59.72,955.52
+F00123,Chaquetas temporada,6,89.63,537.78
+F00124,Pantalón sarga,4,60.32,241.28
+F00124,Camisas algodón,5,56.72,283.6
+F00124,Pantalón sarga,31,57.65,1787.15
+F00124,Chaquetas temporada,20,91.19,1823.8
+F00125,Camisas algodón,31,89.28,2767.68
+F00125,Pantalón sarga,26,89.31,2322.06
+F00126,Prenda punto,30,72.21,2166.3
+F00126,Chaquetas temporada,20,60.01,1200.2
+F00126,Prenda punto,30,52.71,1581.3
+F00127,Pantalón sarga,24,62.31,1495.44
+F00127,Camisas algodón,37,87.03,3220.11
+F00127,Pantalón sarga,2,59.98,119.96
+F00128,Chaquetas temporada,17,134.8,2291.6
+F00128,Prenda punto,32,112.64,3604.48
+F00128,Chaquetas temporada,11,89.14,980.54
+F00128,Prenda punto,12,146.05,1752.6
+F00129,Camisas algodón,5,148.12,740.6
+F00129,Camisas algodón,1,109.09,109.09
+F00130,Pantalón sarga,1,94.91,94.91
+F00130,Prenda punto,24,83.31,1999.44
+F00131,Prenda punto,32,80.04,2561.28
+F00131,Prenda punto,1,80.11,80.11
+F00131,Chaquetas temporada,35,150.49,5267.15
+F00131,Camisas algodón,33,138.45,4568.85
+F00132,Camisas algodón,7,117.3,821.1
+F00132,Pantalón sarga,13,124.28,1615.64
+F00133,Prenda punto,6,106.21,637.26
+F00133,Prenda punto,30,120.27,3608.1
+F00133,Pantalón sarga,20,128.99,2579.8
+F00134,Camisas algodón,6,108.57,651.42
+F00134,Prenda punto,36,113.75,4095.0
+F00134,Camisas algodón,11,84.94,934.34
+F00134,Prenda punto,22,120.33,2647.26
+F00135,Camisas algodón,15,94.37,1415.55
+F00135,Prenda punto,18,82.3,1481.4
+F00135,Camisas algodón,18,144.76,2605.68
+F00135,Camisas algodón,12,146.92,1763.04
+F00136,Pantalón sarga,26,146.93,3820.18
+F00136,Chaquetas temporada,11,120.2,1322.2
+F00137,Chaquetas temporada,25,134.23,3355.75
+F00137,Pantalón sarga,6,115.57,693.42
+F00137,Chaquetas temporada,4,86.04,344.16
+F00138,Puntos de luz,15,37.33,559.95
+F00138,Puntos de luz,28,32.9,921.2
+F00138,Puntos de luz,6,48.18,289.08
+F00139,Instalación eléctrica,6,35.05,210.3
+F00139,Puntos de luz,10,47.34,473.4
+F00139,Mantenimiento instalación,24,30.84,740.16
+F00139,Instalación eléctrica,20,39.65,793.0
+F00140,Instalación eléctrica,12,39.29,471.48
+F00140,Puntos de luz,7,28.75,201.25
+F00141,Mantenimiento instalación,25,28.38,709.5
+F00141,Puntos de luz,25,48.37,1209.25
+F00141,Cuadro de baja tensión,37,41.64,1540.68
+F00141,Puntos de luz,11,31.68,348.48
+F00142,Instalación eléctrica,11,39.39,433.29
+F00142,Puntos de luz,20,40.68,813.6
+F00143,Puntos de luz,39,44.13,1721.07
+F00143,Puntos de luz,7,31.59,221.13
+F00144,Bebidas surtidas,31,2.07,64.17
+F00144,Conservas,21,2.04,42.84
+F00144,Conservas,37,2.77,102.49
+F00144,Productos de panadería,25,2.02,50.5
+F00145,Bebidas surtidas,38,3.09,117.42
+F00145,Bebidas surtidas,36,1.64,59.04
+F00146,Bebidas surtidas,29,2.79,80.91
+F00146,Frutas y verduras,27,2.61,70.47
+F00146,Bebidas surtidas,20,1.96,39.2
+F00146,Bebidas surtidas,28,2.78,77.84
+F00147,Conservas,38,2.2,83.6
+F00147,Conservas,35,1.66,58.1
+F00147,Productos de panadería,35,2.49,87.15
+F00147,Frutas y verduras,7,2.75,19.25
+F00148,Frutas y verduras,37,3.07,113.59
+F00148,Conservas,22,3.04,66.88
+F00149,Productos de panadería,15,2.36,35.4
+F00149,Bebidas surtidas,29,2.16,62.64
+F00150,Bebidas surtidas,23,3.09,71.07
+F00150,Conservas,7,2.04,14.28
+F00150,Frutas y verduras,8,2.84,22.72
+F00150,Bebidas surtidas,23,2.07,47.61
+F00151,Conservas,23,2.31,53.13
+F00151,Conservas,29,2.08,60.32
+F00151,Productos de panadería,3,2.81,8.43
+F00151,Frutas y verduras,2,2.87,5.74
+F00152,Bebidas surtidas,34,1.86,63.24
+F00152,Bebidas surtidas,22,2.44,53.68
+F00153,Puntos de luz,38,85.49,3248.62
+F00153,Instalación eléctrica,14,72.79,1019.06
+F00154,Instalación eléctrica,35,71.72,2510.2
+F00154,Mantenimiento instalación,13,87.07,1131.91
+F00155,Mantenimiento instalación,39,83.16,3243.24
+F00155,Puntos de luz,38,67.59,2568.42
+F00155,Mantenimiento instalación,30,96.14,2884.2
+F00156,Instalación eléctrica,9,78.88,709.92
+F00156,Cuadro de baja tensión,20,67.75,1355.0
+F00156,Mantenimiento instalación,10,90.1,901.0
+F00157,Puntos de luz,28,71.65,2006.2
+F00157,Cuadro de baja tensión,36,70.58,2540.88
+F00157,Mantenimiento instalación,9,71.73,645.57
+F00157,Puntos de luz,40,64.15,2566.0
+F00158,Cuadro de baja tensión,13,107.37,1395.81
+F00158,Puntos de luz,27,99.96,2698.92
+F00158,Puntos de luz,29,88.84,2576.36
+F00159,Mantenimiento instalación,3,76.71,230.13
+F00159,Mantenimiento instalación,11,105.41,1159.51
+F00160,Cuadro de baja tensión,28,47.35,1325.8
+F00160,Cuadro de baja tensión,20,78.36,1567.2
+F00160,Instalación eléctrica,29,53.79,1559.91
+F00160,Instalación eléctrica,29,77.98,2261.42
+F00161,Cuadro de baja tensión,38,70.9,2694.2
+F00161,Puntos de luz,11,67.97,747.67
+F00162,Instalación eléctrica,37,57.32,2120.84
+F00162,Mantenimiento instalación,39,64.87,2529.93
+F00163,Mantenimiento instalación,37,53.97,1996.89
+F00163,Instalación eléctrica,9,81.89,737.01
+F00163,Puntos de luz,4,83.08,332.32
+F00164,Cuadro de baja tensión,16,49.11,785.76
+F00164,Mantenimiento instalación,16,73.81,1180.96
+F00164,Puntos de luz,32,48.95,1566.4
+F00164,Mantenimiento instalación,27,58.3,1574.1
+F00165,Puntos de luz,33,73.34,2420.22
+F00165,Mantenimiento instalación,30,81.39,2441.7
+F00166,Instalación eléctrica,30,68.73,2061.9
+F00166,Mantenimiento instalación,5,75.18,375.9
+F00166,Puntos de luz,14,82.11,1149.54
+F00166,Cuadro de baja tensión,32,54.02,1728.64
+F00167,Cuadro de baja tensión,37,77.46,2866.02
+F00167,Mantenimiento instalación,4,45.08,180.32
+F00167,Puntos de luz,2,48.23,96.46
+F00167,Cuadro de baja tensión,29,61.57,1785.53
+F00168,Cuadro de baja tensión,20,49.62,992.4
+F00168,Mantenimiento instalación,6,69.52,417.12
+F00168,Mantenimiento instalación,6,58.17,349.02
+F00168,Cuadro de baja tensión,4,59.15,236.6
+F00169,Menú grupos,1,15.87,15.87
+F00169,Comidas para llevar,8,30.2,241.6
+F00170,Menú del día,15,21.35,320.25
+F00170,Menú del día,7,20.33,142.31
+F00170,Comidas para llevar,9,21.34,192.06
+F00171,Servicio catering,5,23.51,117.55
+F00171,Menú del día,40,25.25,1010.0
+F00172,Servicio catering,27,24.76,668.52
+F00172,Menú grupos,14,17.02,238.28
+F00173,Menú grupos,23,29.83,686.09
+F00173,Comidas para llevar,9,19.37,174.33
+F00174,Comidas para llevar,2,28.15,56.3
+F00174,Comidas para llevar,14,23.32,326.48
+F00174,Servicio catering,26,20.07,521.82
+F00174,Menú del día,16,22.99,367.84
+F00175,Menú del día,34,28.74,977.16
+F00175,Menú del día,24,29.41,705.84
+F00175,Servicio catering,25,28.34,708.5
+F00175,Menú grupos,24,23.74,569.76
+F00176,Consultoría técnica,28,63.44,1776.32
+F00176,Desarrollo a medida,35,57.58,2015.3
+F00176,Mantenimiento software,18,41.39,745.02
+F00177,Mantenimiento software,35,50.06,1752.1
+F00177,Desarrollo a medida,20,63.33,1266.6
+F00178,Desarrollo a medida,16,41.48,663.68
+F00178,Consultoría técnica,8,54.58,436.64
+F00179,Mantenimiento software,8,38.86,310.88
+F00179,Mantenimiento software,1,44.25,44.25
+F00179,Licencia SaaS anual,34,56.85,1932.9
+F00179,Licencia SaaS anual,11,51.67,568.37
+F00180,Desarrollo a medida,2,50.36,100.72
+F00180,Consultoría técnica,18,57.09,1027.62
+F00180,Licencia SaaS anual,37,60.79,2249.23
+F00181,Desarrollo a medida,32,69.06,2209.92
+F00181,Mantenimiento software,24,44.02,1056.48
+F00181,Desarrollo a medida,37,62.45,2310.65
+F00182,Desarrollo a medida,3,69.03,207.09
+F00182,Desarrollo a medida,16,40.05,640.8
+F00182,Licencia SaaS anual,25,71.23,1780.75
+F00182,Mantenimiento software,3,58.13,174.39
+F00183,Mantenimiento software,21,47.26,992.46
+F00183,Licencia SaaS anual,18,67.87,1221.66
+F00183,Licencia SaaS anual,8,56.31,450.48
+F00184,Desarrollo a medida,26,40.87,1062.62
+F00184,Consultoría técnica,19,66.0,1254.0
+F00184,Licencia SaaS anual,21,41.49,871.29
+F00184,Consultoría técnica,1,51.57,51.57
+F00185,Pantalón sarga,1,53.1,53.1
+F00185,Camisas algodón,15,42.77,641.55
+F00186,Chaquetas temporada,1,48.52,48.52
+F00186,Prenda punto,20,31.21,624.2
+F00187,Prenda punto,4,54.16,216.64
+F00187,Pantalón sarga,18,30.92,556.56
+F00187,Pantalón sarga,34,39.38,1338.92
+F00188,Camisas algodón,38,30.99,1177.62
+F00188,Pantalón sarga,26,30.44,791.44
+F00188,Camisas algodón,28,45.97,1287.16
+F00188,Pantalón sarga,16,36.17,578.72
+F00189,Chaquetas temporada,21,40.43,849.03
+F00189,Pantalón sarga,5,53.4,267.0
+F00189,Pantalón sarga,38,31.34,1190.92
+F00190,Chaquetas temporada,27,31.65,854.55
+F00190,Chaquetas temporada,14,40.4,565.6
+F00190,Prenda punto,17,50.99,866.83
+F00191,Chaquetas temporada,39,29.53,1151.67
+F00191,Chaquetas temporada,10,30.87,308.7
+F00191,Pantalón sarga,23,38.93,895.39
+F00191,Camisas algodón,20,35.34,706.8
+F00192,Prenda punto,36,48.23,1736.28
+F00192,Pantalón sarga,7,40.67,284.69
+F00192,Pantalón sarga,8,28.78,230.24
+F00193,Desarrollo a medida,5,108.12,540.6
+F00193,Consultoría técnica,9,99.15,892.35
+F00194,Desarrollo a medida,3,171.27,513.81
+F00194,Desarrollo a medida,11,169.73,1867.03
+F00194,Consultoría técnica,26,133.43,3469.18
+F00195,Licencia SaaS anual,14,168.39,2357.46
+F00195,Licencia SaaS anual,18,129.18,2325.24
+F00196,Mantenimiento software,19,133.66,2539.54
+F00196,Consultoría técnica,4,98.79,395.16
+F00196,Consultoría técnica,9,126.9,1142.1
+F00196,Mantenimiento software,35,158.76,5556.6
+F00197,Consultoría técnica,35,157.63,5517.05
+F00197,Licencia SaaS anual,37,133.96,4956.52
+F00197,Consultoría técnica,18,106.6,1918.8
+F00198,Licencia SaaS anual,4,159.94,639.76
+F00198,Consultoría técnica,34,121.66,4136.44
+F00199,Desarrollo a medida,16,147.06,2352.96
+F00199,Licencia SaaS anual,35,160.58,5620.3
+F00200,Productos de panadería,38,29.77,1131.26
+F00200,Productos de panadería,37,44.19,1635.03
+F00200,Bebidas surtidas,32,43.61,1395.52
+F00200,Bebidas surtidas,32,30.03,960.96
+F00201,Frutas y verduras,34,41.89,1424.26
+F00201,Productos de panadería,40,34.44,1377.6
+F00202,Productos de panadería,4,29.6,118.4
+F00202,Bebidas surtidas,8,51.81,414.48
+F00203,Productos de panadería,26,44.8,1164.8
+F00203,Productos de panadería,20,37.7,754.0
+F00204,Conservas,21,33.7,707.7
+F00204,Productos de panadería,15,46.94,704.1
+F00204,Bebidas surtidas,25,37.27,931.75
+F00205,Frutas y verduras,37,39.56,1463.72
+F00205,Frutas y verduras,12,45.24,542.88
+F00206,Distribución última milla,29,72.79,2110.91
+F00206,Transporte paletizado,16,118.39,1894.24
+F00207,Porte nacional,4,97.84,391.36
+F00207,Ruta regional,11,131.18,1442.98
+F00208,Ruta regional,7,127.46,892.22
+F00208,Transporte paletizado,11,102.21,1124.31
+F00208,Porte nacional,19,73.37,1394.03
+F00209,Distribución última milla,11,131.41,1445.51
+F00209,Transporte paletizado,5,108.61,543.05
+F00210,Ruta regional,2,100.87,201.74
+F00210,Transporte paletizado,39,131.53,5129.67
+F00210,Transporte paletizado,4,78.8,315.2
+F00210,Transporte paletizado,13,99.4,1292.2
+F00211,Distribución última milla,19,91.92,1746.48
+F00211,Porte nacional,4,98.3,393.2
+F00211,Ruta regional,10,75.67,756.7
+F00211,Porte nacional,28,77.89,2180.92
+F00212,Ruta regional,13,78.51,1020.63
+F00212,Transporte paletizado,11,114.71,1261.81
+F00212,Porte nacional,31,128.46,3982.26
+F00212,Distribución última milla,26,103.52,2691.52
+F00213,Ruta regional,12,96.84,1162.08
+F00213,Ruta regional,24,84.5,2028.0
+F00213,Porte nacional,17,101.44,1724.48
+F00213,Distribución última milla,15,128.01,1920.15
+F00214,Porte nacional,6,116.71,700.26
+F00214,Ruta regional,38,87.24,3315.12
+F00214,Porte nacional,25,126.76,3169.0
+F00214,Ruta regional,35,117.98,4129.3
+F00215,Ruta regional,20,77.31,1546.2
+F00215,Porte nacional,33,110.23,3637.59
+F00216,Menú grupos,13,45.72,594.36
+F00216,Servicio catering,39,29.42,1147.38
+F00216,Menú del día,6,32.29,193.74
+F00216,Menú grupos,36,30.92,1113.12
+F00217,Menú grupos,8,32.87,262.96
+F00217,Servicio catering,37,36.69,1357.53
+F00218,Menú del día,37,40.92,1514.04
+F00218,Comidas para llevar,35,43.13,1509.55
+F00219,Menú grupos,37,37.16,1374.92
+F00219,Menú del día,12,29.81,357.72
+F00219,Servicio catering,40,37.15,1486.0
+F00219,Menú grupos,3,32.46,97.38
+F00220,Menú grupos,18,43.51,783.18
+F00220,Menú del día,22,41.75,918.5
+F00221,Menú del día,15,26.7,400.5
+F00221,Menú grupos,21,29.67,623.07
+F00221,Menú grupos,39,37.96,1480.44
+F00222,Menú grupos,34,42.85,1456.9
+F00222,Menú del día,33,41.18,1358.94
+F00222,Menú del día,20,39.37,787.4
+F00223,Menú del día,12,27.98,335.76
+F00223,Servicio catering,4,29.23,116.92
+F00223,Menú grupos,4,43.97,175.88
+F00223,Servicio catering,18,31.85,573.3
+F00224,Menú del día,2,29.07,58.14
+F00224,Menú grupos,39,33.57,1309.23
+F00224,Menú grupos,38,35.89,1363.82
+F00224,Comidas para llevar,11,42.2,464.2
+F00225,Menú del día,19,24.34,462.46
+F00225,Menú del día,11,42.55,468.05
+F00225,Servicio catering,15,38.0,570.0
+F00225,Servicio catering,18,38.1,685.8
+F00226,Productos de panadería,28,30.86,864.08
+F00226,Productos de panadería,30,20.79,623.7
+F00226,Conservas,20,27.45,549.0
+F00227,Frutas y verduras,1,24.85,24.85
+F00227,Productos de panadería,36,26.98,971.28
+F00227,Productos de panadería,20,27.56,551.2
+F00227,Conservas,5,22.11,110.55
+F00228,Productos de panadería,20,19.8,396.0
+F00228,Bebidas surtidas,4,29.45,117.8
+F00228,Conservas,21,27.5,577.5
+F00229,Productos de panadería,17,31.04,527.68
+F00229,Conservas,25,28.38,709.5
+F00229,Bebidas surtidas,22,28.22,620.84
+F00230,Conservas,23,24.79,570.17
+F00230,Bebidas surtidas,36,19.68,708.48
+F00230,Frutas y verduras,31,18.85,584.35
+F00230,Productos de panadería,36,28.79,1036.44
+F00231,Frutas y verduras,15,22.41,336.15
+F00231,Productos de panadería,27,29.18,787.86
+F00231,Productos de panadería,24,20.93,502.32
+F00232,Prenda punto,34,36.59,1244.06
+F00232,Camisas algodón,10,32.31,323.1
+F00232,Pantalón sarga,22,39.54,869.88
+F00232,Prenda punto,10,37.07,370.7
+F00233,Prenda punto,22,45.44,999.68
+F00233,Pantalón sarga,21,45.54,956.34
+F00234,Pantalón sarga,37,48.99,1812.63
+F00234,Prenda punto,6,32.1,192.6
+F00235,Prenda punto,31,38.85,1204.35
+F00235,Camisas algodón,35,33.96,1188.6
+F00235,Chaquetas temporada,1,52.39,52.39
+F00236,Camisas algodón,1,45.33,45.33
+F00236,Pantalón sarga,15,47.11,706.65
+F00237,Prenda punto,33,44.32,1462.56
+F00237,Pantalón sarga,5,50.57,252.85
+F00238,Servicios de asesoría contable,13,65.99,857.87
+F00238,Confección de nóminas,2,69.36,138.72
+F00238,Asesoria fiscal mensual,14,96.23,1347.22
+F00239,Servicios de asesoría contable,3,77.16,231.48
+F00239,Servicios de asesoría contable,35,90.33,3161.55
+F00240,Asesoría fiscal,2,59.79,119.58
+F00240,Asesoría fiscal,27,80.83,2182.41
+F00240,Asesoría fiscal,36,70.65,2543.4
+F00240,Asesoria fiscal mensual,14,94.16,1318.24
+F00241,Asesoría fiscal,34,71.57,2433.38
+F00241,Presentación de impuestos,9,79.48,715.32
+F00241,Asesoría fiscal,33,95.42,3148.86
+F00242,Confección de nóminas,13,89.58,1164.54
+F00242,Servicios de asesoría contable,34,108.93,3703.62
+F00243,Asesoria fiscal mensual,3,86.35,259.05
+F00243,Asesoria fiscal mensual,31,74.79,2318.49
+F00243,Asesoría fiscal,1,92.91,92.91
+F00244,Confección de nóminas,10,107.67,1076.7
+F00244,Presentación de impuestos,5,95.67,478.35
+F00244,Asesoría fiscal,17,91.46,1554.82
+F00244,Confección de nóminas,19,71.26,1353.94
+F00245,Asesoría fiscal,19,76.36,1450.84
+F00245,Servicios de asesoría contable,28,96.47,2701.16
+F00246,Menú del día,24,13.69,328.56
+F00246,Servicio catering,8,10.69,85.52
+F00246,Menú grupos,18,13.84,249.12
+F00246,Menú grupos,27,12.48,336.96
+F00247,Menú del día,11,8.54,93.94
+F00247,Menú grupos,37,12.7,469.9
+F00248,Menú del día,9,11.29,101.61
+F00248,Menú grupos,8,14.21,113.68
+F00248,Menú grupos,3,8.25,24.75
+F00249,Servicio catering,22,11.55,254.1
+F00249,Menú del día,28,12.58,352.24
+F00249,Servicio catering,31,10.29,318.99
+F00249,Menú grupos,10,13.86,138.6
+F00250,Menú del día,1,12.45,12.45
+F00250,Servicio catering,33,13.93,459.69
+F00250,Menú grupos,11,8.33,91.63
+F00250,Menú grupos,21,9.53,200.13
+F00251,Menú grupos,26,13.7,356.2
+F00251,Menú del día,30,11.0,330.0
+F00252,Tratamiento rehabilitación,3,92.73,278.19
+F00252,Sesión fisioterapia,6,106.04,636.24
+F00252,Revisión especialista,33,93.02,3069.66
+F00253,Revisión especialista,4,107.45,429.8
+F00253,Tratamiento rehabilitación,22,92.9,2043.8
+F00253,Tratamiento rehabilitación,24,101.74,2441.76
+F00254,Analítica clínica,1,80.48,80.48
+F00254,Revisión especialista,36,90.73,3266.28
+F00254,Sesión fisioterapia,3,112.01,336.03
+F00254,Tratamiento rehabilitación,9,107.75,969.75
+F00255,Revisión especialista,40,72.23,2889.2
+F00255,Sesión fisioterapia,26,73.35,1907.1
+F00256,Revisión especialista,7,104.08,728.56
+F00256,Sesión fisioterapia,38,68.1,2587.8
+F00256,Tratamiento rehabilitación,30,98.48,2954.4
+F00256,Analítica clínica,32,61.36,1963.52
+F00257,Tratamiento rehabilitación,33,105.44,3479.52
+F00257,Analítica clínica,38,70.97,2696.86
+F00257,Analítica clínica,7,83.1,581.7
+F00258,Confección de nóminas,39,143.31,5589.09
+F00258,Presentación de impuestos,20,154.85,3097.0
+F00259,Presentación de impuestos,14,103.06,1442.84
+F00259,Presentación de impuestos,19,142.23,2702.37
+F00259,Asesoria fiscal mensual,12,127.49,1529.88
+F00259,Servicios de asesoría contable,8,148.21,1185.68
+F00260,Confección de nóminas,35,109.91,3846.85
+F00260,Confección de nóminas,1,129.01,129.01
+F00260,Asesoría fiscal,25,98.57,2464.25
+F00260,Asesoría fiscal,13,108.39,1409.07
+F00261,Servicios de asesoría contable,10,154.55,1545.5
+F00261,Servicios de asesoría contable,14,147.63,2066.82
+F00261,Asesoría fiscal,23,152.5,3507.5
+F00262,Presentación de impuestos,15,146.73,2200.95
+F00262,Presentación de impuestos,25,106.02,2650.5
+F00262,Servicios de asesoría contable,4,161.57,646.28
+F00262,Confección de nóminas,27,164.01,4428.27
+F00263,Asesoría fiscal,1,146.83,146.83
+F00263,Asesoria fiscal mensual,40,156.93,6277.2
+F00263,Confección de nóminas,15,160.36,2405.4
+F00263,Servicios de asesoría contable,38,130.94,4975.72
+F00264,Asesoria fiscal mensual,19,123.05,2337.95
+F00264,Asesoría fiscal,12,164.48,1973.76
+F00264,Presentación de impuestos,8,117.27,938.16
+F00264,Confección de nóminas,18,131.74,2371.32
+F00265,Asesoría fiscal,22,124.46,2738.12
+F00265,Asesoria fiscal mensual,3,99.25,297.75
+F00265,Servicios de asesoría contable,39,90.95,3547.05
+F00266,Mantenimiento software,27,149.76,4043.52
+F00266,Consultoría técnica,6,131.86,791.16
+F00266,Mantenimiento software,22,130.16,2863.52
+F00266,Licencia SaaS anual,14,187.41,2623.74
+F00267,Desarrollo a medida,8,161.4,1291.2
+F00267,Consultoría técnica,16,183.17,2930.72
+F00267,Mantenimiento software,3,162.66,487.98
+F00267,Licencia SaaS anual,25,184.23,4605.75
+F00268,Licencia SaaS anual,2,183.81,367.62
+F00268,Licencia SaaS anual,33,173.77,5734.41
+F00268,Consultoría técnica,32,103.61,3315.52
+F00268,Mantenimiento software,21,147.06,3088.26
+F00269,Desarrollo a medida,5,119.04,595.2
+F00269,Mantenimiento software,28,176.81,4950.68
+F00269,Mantenimiento software,35,176.17,6165.95
+F00269,Consultoría técnica,5,168.6,843.0
+F00270,Licencia SaaS anual,3,107.65,322.95
+F00270,Desarrollo a medida,12,172.98,2075.76
+F00270,Desarrollo a medida,37,175.51,6493.87
+F00270,Licencia SaaS anual,27,135.43,3656.61
+F00271,Desarrollo a medida,25,161.8,4045.0
+F00271,Desarrollo a medida,40,105.4,4216.0
+F00271,Desarrollo a medida,5,132.62,663.1
+F00272,Licencia SaaS anual,39,107.55,4194.45
+F00272,Consultoría técnica,25,136.08,3402.0
+F00272,Desarrollo a medida,31,114.01,3534.31
+F00272,Mantenimiento software,9,168.59,1517.31
+F00273,Licencia SaaS anual,10,127.11,1271.1
+F00273,Licencia SaaS anual,1,150.73,150.73
+F00273,Mantenimiento software,8,103.42,827.36
+F00273,Consultoría técnica,35,150.17,5255.95
+F00274,Licencia SaaS anual,14,137.7,1927.8
+F00274,Mantenimiento software,11,116.57,1282.27
+F00274,Licencia SaaS anual,13,110.15,1431.95
+F00274,Desarrollo a medida,36,142.2,5119.2
+F00275,Desarrollo a medida,17,108.64,1846.88
+F00275,Consultoría técnica,22,132.57,2916.54
+F00275,Mantenimiento software,7,125.92,881.44
+F00275,Desarrollo a medida,13,128.93,1676.09
+F00276,Confección de nóminas,18,128.46,2312.28
+F00276,Asesoria fiscal mensual,22,130.99,2881.78
+F00277,Confección de nóminas,36,79.46,2860.56
+F00277,Presentación de impuestos,6,128.57,771.42
+F00277,Asesoria fiscal mensual,35,85.33,2986.55
+F00278,Asesoría fiscal,2,129.09,258.18
+F00278,Asesoría fiscal,38,110.95,4216.1
+F00279,Presentación de impuestos,17,108.58,1845.86
+F00279,Presentación de impuestos,31,115.98,3595.38
+F00280,Presentación de impuestos,19,81.13,1541.47
+F00280,Presentación de impuestos,33,78.23,2581.59
+F00281,Asesoria fiscal mensual,40,118.01,4720.4
+F00281,Presentación de impuestos,9,102.06,918.54
+F00281,Asesoria fiscal mensual,37,135.74,5022.38
+F00281,Asesoria fiscal mensual,31,135.1,4188.1
+F00282,Asesoria fiscal mensual,5,89.88,449.4
+F00282,Asesoria fiscal mensual,3,116.96,350.88
+F00282,Presentación de impuestos,24,98.17,2356.08
+F00283,Servicios de asesoría contable,7,119.32,835.24
+F00283,Presentación de impuestos,18,128.11,2305.98
+F00284,Asesoria fiscal mensual,25,115.97,2899.25
+F00284,Servicios de asesoría contable,38,115.94,4405.72
+F00284,Asesoría fiscal,34,89.02,3026.68
+F00284,Asesoria fiscal mensual,34,99.36,3378.24
+F00285,Confección de nóminas,39,72.61,2831.79
+F00285,Asesoria fiscal mensual,29,83.26,2414.54
+F00285,Asesoría fiscal,33,115.28,3804.24
+F00286,Conservas,31,9.29,287.99
+F00286,Bebidas surtidas,27,7.93,214.11
+F00286,Frutas y verduras,9,11.9,107.1
+F00286,Bebidas surtidas,9,12.31,110.79
+F00287,Frutas y verduras,11,9.63,105.93
+F00287,Bebidas surtidas,34,14.68,499.12
+F00288,Frutas y verduras,19,14.6,277.4
+F00288,Bebidas surtidas,29,12.14,352.06
+F00288,Conservas,31,9.0,279.0
+F00288,Conservas,39,8.8,343.2
+F00289,Productos de panadería,11,12.99,142.89
+F00289,Productos de panadería,30,12.07,362.1
+F00290,Bebidas surtidas,7,7.89,55.23
+F00290,Conservas,10,12.13,121.3
+F00290,Bebidas surtidas,31,14.27,442.37
+F00291,Frutas y verduras,6,11.24,67.44
+F00291,Bebidas surtidas,39,11.66,454.74
+F00291,Frutas y verduras,28,11.53,322.84
+F00291,Productos de panadería,3,12.8,38.4
+F00292,Conservas,23,12.01,276.23
+F00292,Frutas y verduras,28,8.73,244.44
+F00292,Conservas,15,14.33,214.95
+F00293,Distribución última milla,27,25.77,695.79
+F00293,Transporte paletizado,28,30.95,866.6
+F00294,Ruta regional,37,25.83,955.71
+F00294,Distribución última milla,26,32.8,852.8
+F00294,Ruta regional,36,33.31,1199.16
+F00294,Ruta regional,12,25.91,310.92
+F00295,Distribución última milla,26,32.45,843.7
+F00295,Porte nacional,15,27.28,409.2
+F00295,Transporte paletizado,7,23.12,161.84
+F00296,Porte nacional,11,26.25,288.75
+F00296,Porte nacional,6,34.02,204.12
+F00296,Ruta regional,39,27.08,1056.12
+F00296,Porte nacional,17,23.25,395.25
+F00297,Ruta regional,26,30.27,787.02
+F00297,Distribución última milla,39,20.31,792.09
+F00297,Transporte paletizado,32,27.14,868.48
+F00297,Transporte paletizado,34,24.4,829.6
+F00298,Transporte paletizado,40,22.31,892.4
+F00298,Porte nacional,24,23.56,565.44
+F00298,Porte nacional,11,20.84,229.24
+F00298,Distribución última milla,26,25.6,665.6
+F00299,Porte nacional,5,35.74,178.7
+F00299,Distribución última milla,36,35.66,1283.76
+F00300,Transporte paletizado,39,36.52,1424.28
+F00300,Ruta regional,26,29.57,768.82
+F00300,Distribución última milla,12,26.57,318.84
+F00301,Distribución última milla,22,36.24,797.28
+F00301,Distribución última milla,35,33.84,1184.4
+F00301,Distribución última milla,29,36.58,1060.82
+F00301,Ruta regional,16,32.84,525.44
+F00302,Porte nacional,31,21.36,662.16
+F00302,Porte nacional,25,30.63,765.75
+F00302,Transporte paletizado,15,33.61,504.15
+F00303,Camisas algodón,36,70.74,2546.64
+F00303,Prenda punto,21,50.39,1058.19
+F00303,Chaquetas temporada,12,71.3,855.6
+F00304,Prenda punto,13,46.21,600.73
+F00304,Pantalón sarga,17,45.22,768.74
+F00305,Chaquetas temporada,10,65.37,653.7
+F00305,Camisas algodón,6,61.74,370.44
+F00305,Prenda punto,40,38.17,1526.8
+F00305,Camisas algodón,31,51.01,1581.31
+F00306,Chaquetas temporada,32,44.38,1420.16
+F00306,Chaquetas temporada,26,45.76,1189.76
+F00306,Pantalón sarga,4,56.45,225.8
+F00306,Prenda punto,31,71.03,2201.93
+F00307,Pantalón sarga,30,72.33,2169.9
+F00307,Prenda punto,21,62.21,1306.41
+F00307,Camisas algodón,14,51.3,718.2
+F00308,Chaquetas temporada,12,57.26,687.12
+F00308,Pantalón sarga,18,54.54,981.72
+F00308,Chaquetas temporada,24,44.41,1065.84
+F00308,Prenda punto,14,52.7,737.8
+F00309,Chaquetas temporada,29,44.27,1283.83
+F00309,Pantalón sarga,37,62.1,2297.7
+F00309,Camisas algodón,18,66.26,1192.68
+F00310,Pantalón sarga,10,66.12,661.2
+F00310,Pantalón sarga,31,66.31,2055.61
+F00310,Pantalón sarga,27,55.53,1499.31
+F00311,Servicios de asesoría contable,31,223.39,6925.09
+F00311,Asesoría fiscal,29,212.38,6159.02
+F00312,Presentación de impuestos,17,165.69,2816.73
+F00312,Confección de nóminas,8,166.5,1332.0
+F00312,Presentación de impuestos,13,192.82,2506.66
+F00312,Presentación de impuestos,12,239.76,2877.12
+F00313,Presentación de impuestos,32,215.9,6908.8
+F00313,Confección de nóminas,6,170.0,1020.0
+F00313,Servicios de asesoría contable,30,199.22,5976.6
+F00313,Asesoria fiscal mensual,11,200.25,2202.75
+F00314,Presentación de impuestos,26,224.54,5838.04
+F00314,Asesoría fiscal,6,144.45,866.7
+F00314,Asesoria fiscal mensual,21,162.51,3412.71
+F00314,Servicios de asesoría contable,18,196.15,3530.7
+F00315,Servicios de asesoría contable,38,186.3,7079.4
+F00315,Confección de nóminas,27,145.07,3916.89
+F00315,Asesoría fiscal,9,210.42,1893.78
+F00316,Asesoría fiscal,14,145.03,2030.42
+F00316,Asesoría fiscal,7,133.0,931.0
+F00316,Confección de nóminas,36,131.84,4746.24
+F00316,Confección de nóminas,34,214.76,7301.84
+F00317,Asesoria fiscal mensual,6,201.92,1211.52
+F00317,Confección de nóminas,20,152.31,3046.2
+F00317,Servicios de asesoría contable,29,198.61,5759.69
+F00317,Asesoria fiscal mensual,34,223.33,7593.22
+F00318,Servicios de asesoría contable,31,180.04,5581.24
+F00318,Presentación de impuestos,18,189.52,3411.36
+F00318,Asesoria fiscal mensual,35,146.21,5117.35
+F00319,Presentación de impuestos,28,186.6,5224.8
+F00319,Presentación de impuestos,20,231.54,4630.8
+F00319,Confección de nóminas,35,152.05,5321.75
+F00319,Asesoría fiscal,29,161.46,4682.34
+F00320,Asesoría fiscal,1,186.58,186.58
+F00320,Asesoria fiscal mensual,23,159.0,3657.0
+F00320,Presentación de impuestos,1,205.76,205.76
+F00321,Prenda punto,26,54.42,1414.92
+F00321,Prenda punto,25,53.21,1330.25
+F00321,Camisas algodón,28,69.81,1954.68
+F00321,Chaquetas temporada,19,70.76,1344.44
+F00322,Pantalón sarga,5,51.65,258.25
+F00322,Chaquetas temporada,8,70.29,562.32
+F00322,Prenda punto,18,72.9,1312.2
+F00323,Pantalón sarga,4,83.94,335.76
+F00323,Camisas algodón,12,84.05,1008.6
+F00324,Prenda punto,1,53.72,53.72
+F00324,Pantalón sarga,1,64.41,64.41
+F00324,Chaquetas temporada,27,56.95,1537.65
+F00324,Prenda punto,24,63.18,1516.32
+F00325,Pantalón sarga,4,55.1,220.4
+F00325,Prenda punto,5,66.45,332.25
+F00326,Prenda punto,1,49.17,49.17
+F00326,Pantalón sarga,25,75.8,1895.0
+F00326,Prenda punto,16,74.42,1190.72
+F00327,Camisas algodón,34,71.48,2430.32
+F00327,Pantalón sarga,31,60.13,1864.03
+F00327,Chaquetas temporada,21,50.67,1064.07
+F00327,Camisas algodón,36,65.53,2359.08
+F00328,Pantalón sarga,24,80.57,1933.68
+F00328,Pantalón sarga,8,53.85,430.8
+F00328,Prenda punto,21,44.79,940.59
+F00329,Prenda punto,16,44.53,712.48
+F00329,Camisas algodón,38,76.3,2899.4
+F00330,Servicio catering,35,38.46,1346.1
+F00330,Servicio catering,32,26.95,862.4
+F00330,Comidas para llevar,29,37.26,1080.54
+F00330,Menú del día,25,29.54,738.5
+F00331,Menú grupos,29,33.67,976.43
+F00331,Menú grupos,13,33.83,439.79
+F00332,Menú grupos,18,40.02,720.36
+F00332,Servicio catering,5,33.1,165.5
+F00332,Menú grupos,19,39.03,741.57
+F00332,Comidas para llevar,30,22.18,665.4
+F00333,Servicio catering,2,34.92,69.84
+F00333,Comidas para llevar,40,27.08,1083.2
+F00333,Menú del día,35,39.02,1365.7
+F00333,Servicio catering,34,36.23,1231.82
+F00334,Comidas para llevar,21,30.6,642.6
+F00334,Comidas para llevar,8,24.15,193.2
+F00334,Menú del día,3,39.36,118.08
+F00334,Servicio catering,12,40.14,481.68
+F00335,Menú del día,3,33.92,101.76
+F00335,Menú grupos,32,32.99,1055.68
+F00336,Comidas para llevar,15,34.64,519.6
+F00336,Menú del día,1,41.31,41.31
+F00337,Menú grupos,4,29.59,118.36
+F00337,Menú grupos,24,38.51,924.24
+F00338,Menú del día,5,39.34,196.7
+F00338,Menú del día,14,41.94,587.16
+F00338,Menú del día,7,37.09,259.63
+F00339,Servicio catering,37,35.04,1296.48
+F00339,Servicio catering,36,37.59,1353.24
+F00340,Ruta regional,33,52.74,1740.42
+F00340,Transporte paletizado,35,77.39,2708.65
+F00340,Ruta regional,23,73.81,1697.63
+F00340,Distribución última milla,24,55.53,1332.72
+F00341,Distribución última milla,39,49.13,1916.07
+F00341,Transporte paletizado,25,68.71,1717.75
+F00341,Distribución última milla,24,76.01,1824.24
+F00341,Ruta regional,26,40.16,1044.16
+F00342,Porte nacional,34,45.19,1536.46
+F00342,Distribución última milla,1,51.36,51.36
+F00342,Transporte paletizado,14,72.06,1008.84
+F00342,Porte nacional,18,74.43,1339.74
+F00343,Transporte paletizado,7,41.56,290.92
+F00343,Distribución última milla,10,45.32,453.2
+F00343,Distribución última milla,38,49.47,1879.86
+F00343,Distribución última milla,20,43.58,871.6
+F00344,Porte nacional,21,69.72,1464.12
+F00344,Transporte paletizado,32,70.95,2270.4
+F00345,Distribución última milla,3,67.41,202.23
+F00345,Ruta regional,6,69.25,415.5
+F00346,Ruta regional,4,92.48,369.92
+F00346,Porte nacional,21,108.22,2272.62
+F00346,Transporte paletizado,21,105.7,2219.7
+F00346,Transporte paletizado,10,75.46,754.6
+F00347,Porte nacional,15,100.99,1514.85
+F00347,Ruta regional,10,80.93,809.3
+F00347,Porte nacional,31,110.32,3419.92
+F00348,Porte nacional,26,105.66,2747.16
+F00348,Transporte paletizado,9,104.27,938.43
+F00348,Transporte paletizado,32,98.54,3153.28
+F00349,Transporte paletizado,16,76.87,1229.92
+F00349,Ruta regional,21,117.91,2476.11
+F00349,Porte nacional,8,117.04,936.32
+F00349,Ruta regional,24,95.39,2289.36
+F00350,Porte nacional,20,83.41,1668.2
+F00350,Distribución última milla,40,127.07,5082.8
+F00350,Ruta regional,40,81.84,3273.6
+F00350,Porte nacional,15,85.44,1281.6
+F00351,Porte nacional,8,121.58,972.64
+F00351,Transporte paletizado,40,134.1,5364.0
+F00351,Distribución última milla,1,95.05,95.05
+F00351,Porte nacional,20,102.2,2044.0
+F00352,Transporte paletizado,14,108.65,1521.1
+F00352,Distribución última milla,36,104.41,3758.76
+F00352,Transporte paletizado,2,97.28,194.56
+F00352,Porte nacional,17,83.48,1419.16
+F00353,Distribución última milla,4,103.2,412.8
+F00353,Porte nacional,5,98.09,490.45
+F00353,Distribución última milla,24,129.92,3118.08
+F00353,Porte nacional,19,130.13,2472.47
+F00354,Conservas,36,38.97,1402.92
+F00354,Frutas y verduras,3,25.76,77.28
+F00355,Conservas,11,21.3,234.3
+F00355,Productos de panadería,23,33.11,761.53
+F00355,Bebidas surtidas,33,26.31,868.23
+F00356,Frutas y verduras,36,39.41,1418.76
+F00356,Bebidas surtidas,10,27.6,276.0
+F00356,Conservas,9,22.65,203.85
+F00357,Bebidas surtidas,27,25.62,691.74
+F00357,Bebidas surtidas,28,39.83,1115.24
+F00357,Productos de panadería,29,31.49,913.21
+F00357,Bebidas surtidas,9,32.25,290.25
+F00358,Productos de panadería,34,38.64,1313.76
+F00358,Conservas,10,33.71,337.1
+F00359,Frutas y verduras,36,31.31,1127.16
+F00359,Frutas y verduras,12,27.12,325.44
+F00359,Bebidas surtidas,2,35.84,71.68
+F00360,Conservas,18,23.9,430.2
+F00360,Bebidas surtidas,7,23.51,164.57
+F00360,Frutas y verduras,40,32.95,1318.0
+F00361,Comidas para llevar,12,48.53,582.36
+F00361,Menú grupos,31,30.55,947.05
+F00361,Servicio catering,15,27.9,418.5
+F00361,Menú del día,18,51.0,918.0
+F00362,Servicio catering,5,31.55,157.75
+F00362,Menú grupos,40,39.42,1576.8
+F00363,Menú grupos,26,46.62,1212.12
+F00363,Menú grupos,21,37.01,777.21
+F00364,Menú del día,34,29.84,1014.56
+F00364,Menú grupos,3,49.17,147.51
+F00364,Servicio catering,34,40.62,1381.08
+F00364,Menú del día,36,36.84,1326.24
+F00365,Servicio catering,19,38.15,724.85
+F00365,Comidas para llevar,19,38.7,735.3
+F00366,Servicio catering,30,47.97,1439.1
+F00366,Menú grupos,6,45.27,271.62
+F00367,Servicio catering,26,37.5,975.0
+F00367,Menú grupos,2,31.59,63.18
+F00367,Servicio catering,30,29.36,880.8
+F00367,Comidas para llevar,11,45.16,496.76
+F00368,Menú grupos,24,29.24,701.76
+F00368,Menú grupos,33,42.49,1402.17
+F00368,Servicio catering,25,40.94,1023.5
+F00368,Menú del día,11,50.04,550.44
+F00369,Servicio catering,10,31.59,315.9
+F00369,Menú del día,27,34.84,940.68
+F00370,Comidas para llevar,12,30.05,360.6
+F00370,Servicio catering,13,27.18,353.34
+F00370,Comidas para llevar,1,38.63,38.63
+F00371,Sesión fisioterapia,16,147.13,2354.08
+F00371,Revisión especialista,40,128.09,5123.6
+F00371,Analítica clínica,4,94.76,379.04
+F00371,Sesión fisioterapia,23,83.64,1923.72
+F00372,Revisión especialista,22,150.0,3300.0
+F00372,Sesión fisioterapia,7,112.19,785.33
+F00372,Analítica clínica,11,131.35,1444.85
+F00372,Analítica clínica,30,137.16,4114.8
+F00373,Revisión especialista,21,108.56,2279.76
+F00373,Tratamiento rehabilitación,5,137.84,689.2
+F00374,Tratamiento rehabilitación,9,90.04,810.36
+F00374,Revisión especialista,22,120.46,2650.12
+F00374,Analítica clínica,14,126.85,1775.9
+F00375,Sesión fisioterapia,31,135.26,4193.06
+F00375,Revisión especialista,28,126.6,3544.8
+F00375,Revisión especialista,17,120.34,2045.78
+F00375,Revisión especialista,9,127.01,1143.09
+F00376,Tratamiento rehabilitación,32,141.56,4529.92
+F00376,Analítica clínica,19,154.42,2933.98
+F00376,Sesión fisioterapia,8,82.68,661.44
+F00376,Sesión fisioterapia,14,140.93,1973.02
+F00377,Revisión especialista,36,141.41,5090.76
+F00377,Analítica clínica,1,128.99,128.99
+F00377,Revisión especialista,17,140.22,2383.74
+F00378,Revisión especialista,1,89.43,89.43
+F00378,Revisión especialista,22,110.62,2433.64
+F00378,Sesión fisioterapia,12,95.45,1145.4
+F00378,Revisión especialista,31,149.68,4640.08
+F00379,Tratamiento rehabilitación,10,127.98,1279.8
+F00379,Revisión especialista,30,139.76,4192.8
+F00380,Revisión especialista,37,135.32,5006.84
+F00380,Revisión especialista,36,121.12,4360.32
+F00381,Consultoría técnica,12,64.07,768.84
+F00381,Licencia SaaS anual,21,68.46,1437.66
+F00381,Licencia SaaS anual,27,44.59,1203.93
+F00381,Mantenimiento software,24,58.58,1405.92
+F00382,Mantenimiento software,8,55.6,444.8
+F00382,Desarrollo a medida,13,76.26,991.38
+F00382,Consultoría técnica,33,42.22,1393.26
+F00383,Mantenimiento software,22,76.66,1686.52
+F00383,Licencia SaaS anual,21,46.76,981.96
+F00384,Mantenimiento software,14,69.03,966.42
+F00384,Consultoría técnica,25,68.61,1715.25
+F00384,Desarrollo a medida,1,53.18,53.18
+F00384,Desarrollo a medida,39,74.67,2912.13
+F00385,Desarrollo a medida,34,70.62,2401.08
+F00385,Licencia SaaS anual,2,63.4,126.8
+F00386,Licencia SaaS anual,13,48.64,632.32
+F00386,Licencia SaaS anual,35,53.49,1872.15
+F00387,Mantenimiento software,11,51.75,569.25
+F00387,Desarrollo a medida,40,62.71,2508.4
+F00387,Desarrollo a medida,14,62.05,868.7
+F00388,Licencia SaaS anual,37,50.65,1874.05
+F00388,Desarrollo a medida,20,64.76,1295.2
+F00389,Consultoría técnica,40,68.86,2754.4
+F00389,Licencia SaaS anual,13,86.04,1118.52
+F00389,Desarrollo a medida,30,79.06,2371.8
+F00389,Desarrollo a medida,30,56.44,1693.2
+F00390,Consultoría técnica,31,62.91,1950.21
+F00390,Mantenimiento software,10,93.16,931.6
+F00390,Licencia SaaS anual,24,70.62,1694.88
+F00390,Licencia SaaS anual,21,73.56,1544.76
+F00391,Licencia SaaS anual,31,73.94,2292.14
+F00391,Mantenimiento software,19,88.68,1684.92
+F00392,Desarrollo a medida,26,91.07,2367.82
+F00392,Desarrollo a medida,21,78.5,1648.5
+F00392,Desarrollo a medida,20,77.38,1547.6
+F00392,Consultoría técnica,38,71.64,2722.32
+F00393,Consultoría técnica,25,54.94,1373.5
+F00393,Mantenimiento software,38,72.49,2754.62
+F00394,Mantenimiento software,12,83.62,1003.44
+F00394,Desarrollo a medida,37,91.99,3403.63
+F00394,Desarrollo a medida,38,80.42,3055.96
+F00395,Mantenimiento software,20,97.72,1954.4
+F00395,Desarrollo a medida,39,57.0,2223.0
+F00395,Consultoría técnica,21,75.53,1586.13
+F00396,Mantenimiento software,38,95.19,3617.22
+F00396,Desarrollo a medida,10,83.54,835.4
+F00397,Consultoría técnica,13,61.65,801.45
+F00397,Licencia SaaS anual,20,79.18,1583.6
+F00397,Licencia SaaS anual,28,86.27,2415.56

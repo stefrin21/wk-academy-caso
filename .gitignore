@@ -1,0 +1,5 @@
+# Lo que descarga npm install: no se sube, se genera en cada máquina
+node_modules/
+
+# Ruido del sistema
+.DS_Store
