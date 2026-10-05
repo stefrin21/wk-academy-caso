@@ -13,6 +13,8 @@ Quiero una página de diagnóstico que demuestre que la aplicación lee de la ba
   Para esta página de diagnóstico, leer el total en el servidor con SUPABASE_SERVICE_ROLE_KEY.
 - Mostrar también, al lado, cuántas facturas ve la clave pública sin sesión, para que se
   vea la diferencia.
+- Hacer las consultas una después de otra (un await por consulta), no en paralelo con
+  Promise.all: lanzadas a la vez, los dos recuentos se mezclan y sale 0.
 
 ## Qué NO debe hacer
 - No usar 'use client': la clave secreta no puede llegar nunca al navegador.

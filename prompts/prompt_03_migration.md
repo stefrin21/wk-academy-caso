@@ -1,7 +1,8 @@
 # Prompt 03 · Entender y aplicar la migration
 
 **Cómo se usa:** este prompt no ejecuta nada. Copilot te explica el archivo; **lo aplicas tú**
-en Supabase: *SQL Editor* → pegas el contenido de `assets/migration.sql` → **Run**.
+en Supabase: *SQL Editor* → **+** → *Create a new snippet* → pegas el contenido de
+`assets/migration.sql` → **Run**. Supabase avisa de que la operación es destructiva: es normal, se confirma.
 
 ```
 ## Propuesta
