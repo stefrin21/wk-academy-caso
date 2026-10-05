@@ -1,10 +1,11 @@
 # Prompt 02 · Conectar Supabase
 
-**Antes de pegarlo:** ten abierto el panel de Supabase en *Project Settings → API*. Ahí están
-los valores que vas a necesitar. Según la versión del panel, la clave pública aparece como
+**Antes de pegarlo:** tengan abierto el panel de Supabase en *Settings (el engranaje, abajo a la
+izquierda) → API Keys*. Ahí están las dos claves. La dirección del proyecto es
+`https://` + el código de su proyecto + `.supabase.co`; el código está en la dirección del panel. Según la versión del panel, la clave pública aparece como
 **anon** o **publishable**, y la secreta como **service_role** o **secret**.
 
-**Las claves las pegas tú en el archivo `.env.local`. Nunca en la chat.**
+**Las claves las pegan ustedes en el archivo `.env.local`. Nunca en la chat.**
 
 ```
 ## Propuesta

@@ -1,6 +1,6 @@
 # Prompt 05 · La página de verificación
 
-**Cómo se usa:** pégalo en modo **Agent** y abre después `http://localhost:3000/debug`.
+**Cómo se usa:** péguenlo en modo **Agent** y abran después `http://localhost:3000/debug`.
 
 ```
 ## Propuesta

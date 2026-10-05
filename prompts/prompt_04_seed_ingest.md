@@ -1,6 +1,6 @@
 # Prompt 04 · Cargar los datos
 
-**Antes de pegarlo:** comprueba que `benchmark-wk/.env.local` tiene las tres claves rellenas.
+**Antes de pegarlo:** comprueben que `benchmark-wk/.env.local` tiene las tres claves rellenas.
 
 **Para lanzar el script**, desde la carpeta `benchmark-wk`:
 
