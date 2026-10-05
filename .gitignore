@@ -3,3 +3,6 @@ node_modules/
 
 # Ruido del sistema
 .DS_Store
+
+# Claves privadas
+.env.local
