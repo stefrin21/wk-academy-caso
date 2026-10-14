@@ -13,7 +13,7 @@ clase. Lo único importante hoy es tenerla descargada en el computadora.
 | **VS Code** | El programa donde se trabaja | Todos |
 | **Node.js** (versión LTS) | El motor que hace funcionar el proyecto en el computadora | Todos |
 | **GitHub Copilot** | El asistente de IA dentro de VS Code | Todos · licencia de WK |
-| **Cuenta de Supabase** (gratuita) | Donde vivirán los datos | **Solo ruta PM** |
+| **Cuenta de Supabase** (gratuita) | Donde vivirán los datos | Todos · antes del Módulo 3 |
 
 **Importante sobre Supabase:** registrarse con **correo electrónico**, no con GitHub.
 
@@ -27,12 +27,11 @@ clase. Lo único importante hoy es tenerla descargada en el computadora.
 | `package.json` | La lista de librerías del proyecto. `npm install` la lee para saber qué descargar | Módulo 1 · deberes |
 | `.github/skills/feature-onepager/` | Una **Skill** ya preparada. No hay que crearla: ya está | Módulo 1 |
 | `.github/skills/historia-usuario/` | Otra Skill de ejemplo, la que el docente enseña en clase | Módulo 1 |
-| `assets/seed/` (4 archivos) | Los datos inventados del caso: empresas, facturas y sus líneas | Módulo 3 · ruta PM |
-| `assets/migration.sql` | El texto que crea las tablas y las reglas de seguridad | Módulo 3 · ruta PM |
-| `assets/migration-comparacion.sql` | Las funciones que comparan una empresa con su sector | Módulo 5 · ruta PM |
-| `assets/datos-ejemplo.ts` | Los mismos datos, en un archivo, sin base de datos | Módulo 3 · ruta PO |
+| `assets/seed/` (4 archivos) | Los datos inventados del caso: empresas, facturas y sus líneas | Módulo 3 |
+| `assets/migration.sql` | El texto que crea las tablas y las reglas de seguridad | Módulo 3 |
+| `assets/migration-comparacion.sql` | Las funciones que comparan una empresa con su sector | Módulo 5 |
 | `prompts/` (6 archivos) | Los cinco prompts para montar el proyecto y el del ejercicio de Skills, listos para copiar y pegar en Copilot | Módulo 3 |
-| `.env.example` | El modelo del archivo de claves. Las claves de verdad van en `.env.local`, que es privado | Módulo 3 · ruta PM |
+| `.env.example` | El modelo del archivo de claves. Las claves de verdad van en `.env.local`, que es privado | Módulo 3 |
 
 ---
 
