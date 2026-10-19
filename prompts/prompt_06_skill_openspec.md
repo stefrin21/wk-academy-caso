@@ -36,11 +36,15 @@ ninguna de las cuatro partes cada vez que pido algo.
 
 ## Cómo sabemos que salió bien
 - Al escribir / en la chat aparece prompt-openspec
-- Si escribo «/prompt-openspec quiero una página de login», me devuelve las cuatro
+- Si escribo «/prompt-openspec» y un requisito de mi PRD, me devuelve las cuatro
   partes o me pregunta lo que falta, sin escribir código
 ```
 
 **Después, con cualquiera de las dos:** recarguen la ventana (`Cmd/Ctrl + Shift + P` →
-`Developer: Reload Window`) y pruébenla:
+`Developer: Reload Window`) y pruébenla **con un requisito de su PRD**: abran `docs/prd.md`,
+copien un requisito y escriban:
 
-    /prompt-openspec quiero una página de login para la aplicación
+    /prompt-openspec [aquí el requisito copiado de su PRD]
+
+Lo que devuelve es el primer prompt para construir ese requisito: así el PRD se convierte en
+prompts, y los prompts en producto.

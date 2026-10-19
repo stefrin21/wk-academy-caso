@@ -13,6 +13,8 @@ Quiero entender qué hace assets/migration.sql antes de aplicarlo en Supabase.
   sirve cada una.
 - Explicarme qué hacen las políticas RLS: quién puede ver qué.
 - Decirme qué tengo que comprobar en Supabase después de ejecutarlo.
+- Para cada tabla y cada regla de seguridad, decirme qué parte de nuestro PRD cubre
+  (#file:docs/prd.md).
 
 ## Qué NO debe hacer
 - No modificar assets/migration.sql.
