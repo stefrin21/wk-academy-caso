@@ -13,7 +13,7 @@ clase. Lo único importante hoy es tenerla descargada en el computadora.
 | **VS Code** | El programa donde se trabaja | Todos |
 | **Node.js** (versión LTS) | El motor que hace funcionar el proyecto en el computadora | Todos |
 | **GitHub Copilot** | El asistente de IA dentro de VS Code | Todos · licencia de WK |
-| **Cuenta de Supabase** (gratuita) | Donde vivirán los datos | Todos · antes del Módulo 3 |
+| **Cuenta de Supabase** (gratuita) | Donde vivirán los datos | Se crea en clase, en el Módulo 3 |
 
 **Importante sobre Supabase:** registrarse con **correo electrónico**, no con GitHub.
 
