@@ -104,6 +104,12 @@ alter table empresas enable row level security;
 drop policy if exists p_empresas_lectura on empresas;
 create policy p_empresas_lectura on empresas for select using (auth.role() = 'authenticated');
 
+-- Miembros: cada usuario ve solo su propia pertenencia a un despacho. Las reglas de arriba
+-- leen esta tabla; sin sesión no se ve ninguna fila, y por eso no se ve ninguna factura.
+alter table despacho_miembros enable row level security;
+drop policy if exists p_miembros_propios on despacho_miembros;
+create policy p_miembros_propios on despacho_miembros for select using (user_id = auth.uid());
+
 -- ---------------------------------------------------------------- FUNCIONES DE BENCHMARK
 -- El benchmark compara al cliente con TODO el clúster (empresas de otros despachos).
 -- RLS lo impediría, así que usamos SECURITY DEFINER: la función corre como 'postgres'
@@ -142,6 +148,31 @@ language sql security definer set search_path = public as $$
          percentile_cont(0.75) within group (order by total)
   from mensual group by mes order by mes;
 $$;
+
+-- =============================================================================
+-- PERMISOS DE LA DATA API (GRANT)
+-- Desde octubre de 2026 Supabase ya no da estos permisos automáticamente a las
+-- tablas nuevas: sin ellos, supabase-js responde "permission denied".
+--   · service_role (la clave secreta): todo. La usan el script de carga y /debug.
+--   · authenticated (usuarios con sesión): leer. Lo que ve cada uno lo deciden las
+--     reglas RLS de arriba.
+--   · anon (clave pública, sin sesión): leer solo las tablas con RLS, que no le dejan
+--     ver nada. Por eso /debug enseña 0 en vez de un error. Incluye despacho_miembros
+--     porque las reglas de las facturas la consultan. despachos no tiene RLS: anon no
+--     recibe nada sobre ella.
+-- =============================================================================
+grant usage on schema public to anon, authenticated, service_role;
+
+grant select, insert, update, delete on
+  despachos, empresas, despacho_clientes, despacho_miembros, facturas, lineas_factura
+  to service_role;
+grant usage, select on all sequences in schema public to service_role;
+
+grant select on
+  despachos, empresas, despacho_clientes, despacho_miembros, facturas, lineas_factura
+  to authenticated;
+
+grant select on empresas, despacho_clientes, despacho_miembros, facturas, lineas_factura to anon;
 
 -- =============================================================================
 -- DESPUÉS DE APLICAR ESTE ARCHIVO:
