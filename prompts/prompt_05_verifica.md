@@ -8,6 +8,9 @@ Quiero una página de diagnóstico que demuestre que la aplicación lee de la ba
 
 ## Qué debe hacer
 - Crear benchmark-wk/app/debug/page.tsx como Server Component.
+- Esta versión de Next.js tiene «Cache Components» activado: no usar `export const dynamic`.
+  Poner la parte que lee datos en un componente dentro de <Suspense>, y llamar a
+  `await connection()` (de next/server) antes de leer, para que se lea en cada visita.
 - Mostrar «Facturas totales» y los datos de una factura: emisor, fecha e importe.
 - Tener en cuenta la RLS: sin haber iniciado sesión, la clave pública no ve ninguna factura.
   Para esta página de diagnóstico, leer el total en el servidor con SUPABASE_SERVICE_ROLE_KEY.
